@@ -1,0 +1,555 @@
+{
+  "partners": {
+    "title": "협력 기업",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/519915ab3bbd.webp",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "제조"
+      },
+      {
+        "type": "image",
+        "src": "/assets/65970dbcb0a8.webp",
+        "alt": "제조 협력기업 삼성전자"
+      },
+      {
+        "type": "image",
+        "src": "/assets/211a81c14110.webp",
+        "alt": "제조 협력기업 LG전자"
+      },
+      {
+        "type": "image",
+        "src": "/assets/2cd83b1451b2.webp",
+        "alt": "제조 협력기업 SK하이닉스"
+      },
+      {
+        "type": "image",
+        "src": "/assets/d21f16612ca4.webp",
+        "alt": "제조 협력기업 현대"
+      },
+      {
+        "type": "image",
+        "src": "/assets/5b0e3ec2e248.webp",
+        "alt": "제조 협력기업 포스코"
+      },
+      {
+        "type": "image",
+        "src": "/assets/f08f9f4f3c4c.webp",
+        "alt": "제조 협력기업 현대중공업"
+      },
+      {
+        "type": "image",
+        "src": "/assets/d8bcec9816eb.webp",
+        "alt": "제조 협력기업 삼성중공업"
+      },
+      {
+        "type": "h2",
+        "text": "서비스"
+      },
+      {
+        "type": "image",
+        "src": "/assets/df15208f3e26.webp",
+        "alt": "서비스 협력기업 KB국민은행"
+      },
+      {
+        "type": "image",
+        "src": "/assets/05ec723ba847.webp",
+        "alt": "서비스 협력기업 삼성화재"
+      },
+      {
+        "type": "image",
+        "src": "/assets/aec7725d0de8.webp",
+        "alt": "서비스 협력기업 KOREANRE"
+      },
+      {
+        "type": "image",
+        "src": "/assets/9b45ef46a86d.webp",
+        "alt": "서비스 협력기업 AUTOCRYPT"
+      },
+      {
+        "type": "image",
+        "src": "/assets/5c2a3616bc2d.webp",
+        "alt": "서비스 협력기업 HENEGRY"
+      },
+      {
+        "type": "image",
+        "src": "/assets/df16ca8f1e76.webp",
+        "alt": "서비스 협력기업 PUZZLEDATA"
+      }
+    ]
+  },
+  "cooperative-professor": {
+    "title": "협력 교수",
+    "blocks": [
+      {
+        "type": "h3",
+        "text": "유니스트"
+      },
+      {
+        "type": "h2",
+        "text": "Marco Comuzzi"
+      },
+      {
+        "type": "h3",
+        "text": "경희대"
+      },
+      {
+        "type": "h2",
+        "text": "Jae-yoon Jung"
+      },
+      {
+        "type": "h3",
+        "text": "부산대"
+      },
+      {
+        "type": "h2",
+        "text": "Heyrim Bae"
+      },
+      {
+        "type": "h3",
+        "text": "광운대"
+      },
+      {
+        "type": "h2",
+        "text": "Minsu Cho"
+      },
+      {
+        "type": "h3",
+        "text": "서울대"
+      },
+      {
+        "type": "h2",
+        "text": "Michael K. Lim"
+      },
+      {
+        "type": "h3",
+        "text": "서울과기대"
+      },
+      {
+        "type": "h2",
+        "text": "Nam-Wook Cho"
+      },
+      {
+        "type": "h3",
+        "text": "한국외대"
+      },
+      {
+        "type": "h2",
+        "text": "Bernardo Yahya"
+      },
+      {
+        "type": "h3",
+        "text": "분당서울대병원"
+      },
+      {
+        "type": "h2",
+        "text": "SooyoungYoo"
+      },
+      {
+        "type": "h3",
+        "text": "한림대병원"
+      },
+      {
+        "type": "h2",
+        "text": "Me-Yeon Lee"
+      }
+    ]
+  },
+  "participating-professor": {
+    "title": "참여 교수",
+    "blocks": [],
+    "people": [
+      {
+        "image": "/assets/46f61c3cfbe0.png",
+        "name": "Prof.dr.ir. Wil van der Aalst",
+        "description": "Process and Data Science RWTH Aachen University",
+        "links": []
+      },
+      {
+        "image": "/assets/6808b79e814a.webp",
+        "name": "Prof. Minseok Song",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:mssong@postech.ac.kr",
+          "https://aim.postech.ac.kr/"
+        ]
+      },
+      {
+        "image": "/assets/713c46ab08e3.webp",
+        "name": "Prof. Heecheon Yoo",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:hcyou@postech.ac.kr"
+        ]
+      },
+      {
+        "image": "/assets/1640f17a4c11.webp",
+        "name": "Prof. Bonggyu Jang",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:bonggyujang@postech.ac.kr"
+        ]
+      },
+      {
+        "image": "/assets/90bd62830042.webp",
+        "name": "Prof. Kwangmin Jung",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:kwjung@postech.ac.kr",
+          "https://airm.postech.ac.kr/"
+        ]
+      },
+      {
+        "image": "/assets/c75f128d4efb.webp",
+        "name": "Prof. Hyunbo Cho",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:hcho@postech.ac.kr",
+          "https://sites.google.com/view/postech-isl"
+        ]
+      },
+      {
+        "image": "/assets/4b2317ae8191.webp",
+        "name": "Prof. Minwoo CHAE",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:mchae@postech.ac.kr"
+        ]
+      },
+      {
+        "image": "/assets/925543704a4e.webp",
+        "name": "Prof. Sungho Han",
+        "description": "Industrial and Management Engineering POSTECH",
+        "links": [
+          "mailto:shan@postech.ac.kr",
+          "https://www.eden.postech.ac.kr/"
+        ]
+      },
+      {
+        "image": "/assets/9fe3f59b7ecd.webp",
+        "name": "Prof. Eulbeom Lee",
+        "description": "Graduate Institute of Ferrous & Eco Materials Technology POSTECH",
+        "links": [
+          "mailto:dreblee@postech.ac.kr"
+        ]
+      },
+      {
+        "image": "/assets/e7115fbc4d43.png",
+        "name": "Prof. Caran HAN",
+        "description": "U.S. System University of Melbourne",
+        "links": [
+          "mailto:caren.han@unimelb.edu.au"
+        ]
+      },
+      {
+        "image": "/assets/1576f07ad1ca.webp",
+        "name": "Assoc. Prof. Sunyoung shin",
+        "description": "Mathematics POSTECH",
+        "links": [
+          "mailto:sunyoungshin@postech.ac.kr",
+          "https://site.google.com/view/sunyoungshin"
+        ]
+      }
+    ]
+  },
+  "dps-application-group": {
+    "title": "DPS Application Group",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Goal-Based Wealth Management (GBI)"
+      },
+      {
+        "type": "p",
+        "text": "GBI is a form of lifecycle wealth management for individuals that combines the probability of achieving goals with the volatility of the portfolio. GBI departs from the typical static portfolio to construct a dynamic portfolio that moves along the efficient frontier. As outlined in Das et al. (2018a), GBI models the probability of achieving the investor’s bespoke financial goals through a glide path that reflects the optimal average asset allocation trajectory over time. This approach is widely regarded as the optimal solution for personalized wealth management in the FinTech era, providing a sophisticated framework for aligning investment strategies with individual goals."
+      },
+      {
+        "type": "image",
+        "src": "/assets/d178318a1751.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Risk management solutions through the capital markets"
+      },
+      {
+        "type": "p",
+        "text": "Alternative Risk Transfer (ART) refers to innovative mechanisms used by organizations to manage risks that traditional insurance or reinsurance markets cannot effectively cover. ART solutions are particularly useful for risks that are either too large, complex, or uncertain to be addressed by conventional methods. These methods blend elements of insurance, financial markets, and capital market instruments to transfer risk in a cost-effective and flexible manner. One prominent ART instrument is catastrophe bonds (CAT Bonds), which are designed to mitigate financial exposure to high-severity, low-frequency events such as natural disasters (e.g., hurricanes, earthquakes). CAT Bonds allow insurers, reinsurers, or corporations to transfer catastrophic risk to capital market investors."
+      },
+      {
+        "type": "image",
+        "src": "/assets/d5e3238158fb.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "UCD (User-centered Design) in Financial Sector"
+      },
+      {
+        "type": "p",
+        "text": "User-Centered Design (UCD) in the financial sector prioritizes the needs, preferences, and limitations of users to create intuitive and effective digital solutions. It involves engaging users through research and testing, ensuring their feedback shapes the design. UCD relies on iterative cycles of prototyping, testing, and refining to continuously improve usability. By focusing on user-centered principles, such as designing with the user in mind, maintaining consistency in the interface, and ensuring simplicity, financial services can deliver seamless and accessible experiences that build trust and meet diverse customer needs."
+      },
+      {
+        "type": "image",
+        "src": "/assets/2fc14c833f24.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Ergonomics"
+      },
+      {
+        "type": "p",
+        "text": "Ergonomics is a field that studies the interaction between various human factors and system elements to design systems and products optimized for humans through Human-Centered Design. Ergonomics analyzes physical factors such as musculoskeletal load and biometric signals, as well as psychological factors like cognitive load and emotional satisfaction, thereby playing a crucial role in identifying system elements that reduce user convenience and deriving problems that need to be addressed. Recently, ergonomics has been applied to innovative fields by integrating artificial intelligence technologies, including the development of user state detection models, personalized solutions, and the derivation of optimal UI/UX systems in virtual environments. By combining user and system analysis, data analytics, and machine learning technologies, ergonomics comprehensively analyzes and improves human-system interactions to enhance user safety, convenience, usability, and satisfaction, and to optimize system efficiency."
+      },
+      {
+        "type": "image",
+        "src": "/assets/a863f3394764.png",
+        "alt": ""
+      }
+    ]
+  },
+  "process-science": {
+    "title": "Process Science",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Process Mining"
+      },
+      {
+        "type": "p",
+        "text": "Process mining is a data-driven technique that focuses on analyzing and visualizing actual business processes to optimize their performance. By utilizing event log data generated from IT systems, process mining helps uncover the flow of processes, identify discrepancies between expected and actual workflows, and detect inefficiencies or bottlenecks. It is widely applied in areas such as business process management (BPM), operational optimization, and compliance verification. Combining data science, machine learning, and business analytics, process mining has become a critical tool for driving digital transformation and fostering process innovation."
+      },
+      {
+        "type": "image",
+        "src": "/assets/1cc659665e3d.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Process optimization"
+      },
+      {
+        "type": "p",
+        "text": "Process optimization is the practice of improving business processes to achieve greater efficiency, productivity, and quality. In modern organizations, data-driven approaches play a crucial role by automatically identifying issues within processes through the analysis of operational data, uncovering inefficiencies, delays, and deviations. A key aspect of advanced process optimization is leveraging what-if analysis, which allows organizations to simulate various scenarios and evaluate the impact of potential changes before implementation. By combining data analytics, automation, and simulation techniques, process optimization helps businesses make informed decisions, reduce costs, and enhance overall performance while adapting to changing demands."
+      },
+      {
+        "type": "image",
+        "src": "/assets/77007c771b9c.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Process digital twin"
+      },
+      {
+        "type": "p",
+        "text": "A process digital twin is a virtual representation of a business process that mirrors its real-world counterpart, enabling organizations to analyze, monitor, and optimize their workflows in a dynamic and data-driven manner. Modern technologies allow for the automatic generation of process digital twins by extracting insights from operational data, creating accurate models that reflect the actual process flow. Furthermore, reinforcement learning techniques can be applied to these digital twins to explore and recommend alternative process configurations, optimizing performance under various conditions. By providing a real-time, interactive platform for experimentation and decision-making, process digital twins empower organizations to enhance efficiency, reduce costs, and adapt to evolving challenges."
+      },
+      {
+        "type": "image",
+        "src": "/assets/43ab65245a10.png",
+        "alt": ""
+      }
+    ]
+  },
+  "data-science": {
+    "title": "Data Science",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Distributionally Robust Inference"
+      },
+      {
+        "type": "p",
+        "text": "Many machine learning and statistical methods rely on the fundamental assumption that the distributions of observed/training data and future/test data are identical. However, in real-world applications, this assumption is often violated due to various types of distributional shifts. These shifts can significantly degrade the performance of non-robust methods, such as those based on empirical risk minimization, in statistical inference tasks. To address this challenge, distributionally robust inference has emerged as a promising alternative. This relatively new field in data science focuses on developing methods that are resilient to distributional shifts and studying their theoretical properties. Our research aims to advance this area by developing robust methodologies and investigating their practical and theoretical implications."
+      },
+      {
+        "type": "h2",
+        "text": "Score-based generative models"
+      },
+      {
+        "type": "p",
+        "text": "Generative AI has had a significant impact on various areas of science and industry. Score-based generative models, such as diffusion models, are among the most successful approaches. However, despite extensive research, our theoretical understanding of these models remains limited. Our research aims to develop a solid theoretical foundation that provides fundamental insights into why score-based generative models perform so well."
+      },
+      {
+        "type": "image",
+        "src": "/assets/33cec56b5132.png",
+        "alt": ""
+      },
+      {
+        "type": "h2",
+        "text": "Over-parametrized deep neural networks"
+      },
+      {
+        "type": "p",
+        "text": "In recent years, many researchers have focused on understanding deep learning from a theoretical perspective. One of the key open problems is to explain why over-parameterized deep neural networks perform so well. For over-parameterized models, researchers have observed phenomena like the double descent curve, which appears to contradict the classical bias-variance tradeoff principle. Our research aims to build a deeper understanding of the mechanisms behind the success of over-parameterized deep neural networks."
+      }
+    ]
+  },
+  "data-process-science": {
+    "title": "Data & Process Science",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Data science"
+      },
+      {
+        "type": "h2",
+        "text": "Process science"
+      },
+      {
+        "type": "image",
+        "src": "/assets/db9d53c7e6c3.png",
+        "alt": "Data & Process Science\n\nDPS Applications: Production & Service\n\nData Science\n- Big Data\n- Visualization\n- Statistics\n- DM/ML/AI\n\nProcess Science\n- System Analysis\n- Optimization\n- Simulation\n- Process Mining"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "주소"
+      },
+      {
+        "type": "p",
+        "text": "POSTECH (Pohang University of Science and Technology) Engineering Building #4 – 408, 77 Cheongam-Ro. Nam-Gu. Pohang. Gyeongbuk. Korea 37673 대한민국 경상북도 포항시 남구 청암로 77, 제4공학관 408호, 우편번호 37673"
+      },
+      {
+        "type": "h2",
+        "text": "전화번호"
+      },
+      {
+        "type": "p",
+        "text": "054-279-2863"
+      },
+      {
+        "type": "h2",
+        "text": "팩스번호"
+      },
+      {
+        "type": "p",
+        "text": "+82-054-279-2870"
+      }
+    ]
+  },
+  "org-chart": {
+    "title": "조직",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/5fe891bc0f15.png",
+        "alt": "Will van der Aalst Data & Process Science Center\n센터장: 송민석\n명예센터장: Will van der Aalst\n\nData Sceience Group\n포스텍 수학과: 신선영\n포스텍 산업경영공학과: 채민우\n\nProcess Science Group\nRWTH Aachen University: Will van der Aalst\n포스텍 산업경영공학과: 송민석, 조현보\n포스텍 친환경소재대학원: 이을범\nUniversity of Melbourne: Caren Han\n\nDPS Application Group\n포스텍 산업경영공학과: 유희천, 장봉규, 정광민, 한성호\n\n협력 교수\n유니스트: Marco Comuzzi\n경희대: Jae-yoon Jung\n부산대: Heyrim Bae\n광운대: Minsu Cho\n서울대: Michael K. Lim\n서울과기대: Nam-Wook Cho\n한국외대: Bernardo Yahya\n분당서울대병원: SooyoungYoo\n한림대병원: Me-Yeon Lee"
+      }
+    ]
+  },
+  "about": {
+    "title": "센터소개",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "비전 및 목표"
+      },
+      {
+        "type": "h3",
+        "text": "체계적인 글로벌 협력을 통한 Data & Process Science 기술 경쟁력 확보"
+      },
+      {
+        "type": "image",
+        "src": "/assets/d34022a40cc1.png",
+        "alt": "이론 및 응용 연구\n이론에서 적용까지 전방위적인 연구 역량 강화\n- Data Science\n- Process Science\n- DPS Application\n\n글로벌 네트워킹\n산학 협력 및 글로벌 네트워크 구축\n- 해외 우수 교원 초빙\n- 글로벌 기업들과의 산학 협력"
+      }
+    ]
+  },
+  "greeting": {
+    "title": "인사말",
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "명예 센터장 인사말"
+      },
+      {
+        "type": "p",
+        "text": "Welcome to the “Wil van der Aalst Data and Process Science Research Center”. It is a great honor and pleasure to serve as honorary director for this wonderful initiative. We focus on the interplay between data science and process science. Due to incredible progress in Artificial Intelligence (AI) and Machine Learning (ML), we are now able to exploit data in ways never imagined before. However, due to the dynamic nature of processes, mainstream AI and ML approaches cannot be used to analyze and improve operational processes. We need, for example, process mining to serve as a lens for AI and ML by discovering the true fabric of processes and identifying performance and compliance problems. Moreover, techniques from operations research, ranging from simulation to optimization, need to be combined with data-science approaches to actually improve processes in a sustainable manner. Our center serves as the leading research hub in South Korea connecting data science and process science. We focus on theoretical and applied research and are well-connected with the international research community and Korea’s globally leading companies in manufacturing, electronics, automotive, and telecommunications. This, together with the support of POSTECH, provides a unique ecosystem. Do not hesitate if you would like to collaborate with us to push innovations in data and process science. prof.dr.ir. Wil van der Aalst"
+      },
+      {
+        "type": "image",
+        "src": "/assets/574eba677962.webp",
+        "alt": "명예 센터장 Wil van der Aalst 사진"
+      },
+      {
+        "type": "image",
+        "src": "/assets/5f517c472d9c.webp",
+        "alt": "센터장 송민석 교수님 사진"
+      },
+      {
+        "type": "h2",
+        "text": "센터장 인사말"
+      },
+      {
+        "type": "p",
+        "text": "Wil van der Aalst Data & Process Science Research Center에 오신 것을 환영합니다. Wil van der Aalst Data & Process Science Research Center는 프로세스 마이닝(Process Mining) 분야의 창시자이자 세계적인 석학이신 Wil van der Aalst 교수님의 이름을 따서 설립된 연구 센터입니다. 본 센터는 데이터 과학과 프로세스 과학의 융합을 통해, 산업과 학계에서 혁신을 주도하는 연구 허브로 자리매김하고자 합니다. 인공지능(AI)과 머신러닝(ML)의 발전을 활용하여 프로세스의 본질을 탐구하고, 성과와 규정 준수 문제를 식별하며, 데이터 기반의 지속 가능한 프로세스 개선을 실현하는 것이 우리의 핵심 목표입니다. 이를 위해, 프로세스 마이닝을 비롯한 다양한 데이터 분석 기법과 최적화, 시뮬레이션 등의 방법론을 접목하여 실질적인 문제 해결을 도모합니다. 본 센터는 한국을 대표하는 연구 기관으로서, 이론과 실무를 아우르는 연구를 수행하며, 국제 연구 커뮤니티 및 세계적 기업들과 긴밀한 협력을 이어가고 있습니다. 제조, 전자, 자동차, 통신, 금융 등 다양한 산업과의 협업을 통해 혁신을 실현하며, POSTECH의 지원을 바탕으로 독창적인 연구 생태계를 구축하고자 합니다. 마지막으로, 본 센터의 명예 센터장을 맡아주신 Wil van der Aalst 교수님께 깊은 감사를 드립니다. 교수님의 탁월한 연구 업적과 비전은 본 센터의 성장과 발전에 큰 영감을 주고 있으며, 이를 바탕으로 데이터 및 프로세스 과학 분야에서 의미 있는 혁신을 만들어 나가고자 합니다. 많은 분들과 혁신을 함께 만들어가길 기대합니다. 협업을 원하신다면 언제든지 연락주시기 바랍니다. Wil van der Aalst Data & Process Science Research Center 단장"
+      }
+    ]
+  },
+  "ceremony": {
+    "title": "연구센터 현판식 개최",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "POSTECH(포항공과대학교)은 4월 21일(월) 제4공학관에서 ‘윌 반 더 알스트 데이터 & 프로세스 사이언스 연구센터’(Wil van der Aalst Data & Process Science Research Center, 이하 알스트 센터) 현판식을 개최했다."
+      },
+      {
+        "type": "p",
+        "text": "2024년 9월 개소한 알스트 센터는 객체 중심 프로세스 마이닝, 멀티모달 AI 등 첨단 데이터·프로세스 융합 연구를 통해 산업 현장의 혁신을 지원해오고 있다."
+      },
+      {
+        "type": "p",
+        "text": "이날 행사에서는 김성근 총장, 윌 반 더 알스트 명예센터장, 송민석 센터장, 김광재 산업데이터사이언스 전공 책임교수 등 주요 보직교수들이 참석한 가운데, 센터의 현황과 발전 방향에 대해 논의하는 환담회를 가진 후 현판식이 진행됐다."
+      },
+      {
+        "type": "p",
+        "text": "센터는 IITP와 경북도/포항시의 지원을 받은 글로벌 데이터 리더 양성 사업 등 첫해에 약 80억 원 규모의 연구 과제를 수주하고, 글로벌 연구 네트워크를 확대하는 등 의미 있는 성과를 거두었다."
+      },
+      {
+        "type": "p",
+        "text": "송민석 센터장은 “센터 개소 1년도 채 되지 않아 좋은 성과들이 나오고 있다. 앞으로도 POSTECH의 강점인 융합 연구를 바탕으로 세계적 수준의 연구를 이어나가겠다”고 밝혔다."
+      },
+      {
+        "type": "image",
+        "src": "/assets/b3d53f032f25.jpg",
+        "alt": ""
+      },
+      {
+        "type": "p",
+        "text": "POSTECH held the plaque unveiling ceremony for the Wil van der Aalst Data & Process Science Research Center (Aalst Center) at Science Building IV on April 21 (Mon)."
+      },
+      {
+        "type": "p",
+        "text": "Established in September 2024, the Aalst Center has been supporting innovation in industry through advanced research integrating data and processes, such as object-centric process mining and multimodal AI."
+      },
+      {
+        "type": "p",
+        "text": "On the day of the event, President Seong Keun Kim, Honorary Center Director Wil van der Aalst, Center Director Minseok Song, Professor Kwang Jae Kim (Deputy Head of Major in Industrial Data Science), and other key faculty members attended a roundtable meeting to discuss the current status and future direction of the center, followed by the unveiling ceremony."
+      },
+      {
+        "type": "p",
+        "text": "In its first year, the center achieved significant milestones, including securing approximately KRW 8 billion in research funding through projects such as the Global Data Leader Training Program supported by IITP and Gyeongbuk Province/Pohang City, and expanding its global research network."
+      },
+      {
+        "type": "p",
+        "text": "Director Minseok Song stated, “Even within our first year, we have already seen promising results. Building on POSTECH’s strengths in interdisciplinary research, we will continue to pursue world-class research going forward.”"
+      },
+      {
+        "type": "image",
+        "src": "/assets/d56292225e46.jpg",
+        "alt": ""
+      }
+    ]
+  }
+}
